@@ -36,7 +36,6 @@ Ideal for **aerial surveillance**, **thermal drone analytics**, and **research i
 Multi-UAV-IR-Tracker-Fusion/
 ├── tracking/                    # Tracking module (StrongSORT, Deep ReID, Kalman)
 ├── yolov8/                      # YOLOv8 detector
-├── fusion/                      # Fusion logic (optional or WIP)
 ├── test_videos/                # Input UAV IR videos (mp4/avi/mkv)
 ├── first_frame_labels/         # First frame GT labels for ID initialization
 ├── weights/                    # Pretrained weights
