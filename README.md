@@ -20,12 +20,12 @@ Ideal for **aerial surveillance**, **thermal drone analytics**, and **research i
 ---
 ### Sample Tracking Demo
 
-<div align="center">
+
   <p>
   <img src="https://github.com/abhin2002/Multi-UAV-IR-Tracker-Fusion/blob/d086822927bb78a9991202c573c2e862b5cc614c/assets/output_visualized_154-gif.gif" width="400"/>
   </p>
   <br>
-<div>
+
 
 
 ## 🚀 Key Features
