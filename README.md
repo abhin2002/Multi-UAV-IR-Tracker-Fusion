@@ -26,7 +26,7 @@ Ideal for **aerial surveillance**, **thermal drone analytics**, and **research i
 - ✅ **First-frame Label Initialization:** Uses ground truth from first frame to assign consistent IDs
 - ✅ **Infrared Video Support:** Designed for thermal IR UAV datasets
 - ✅ **Multi-Video Batch Tracking:** Automatically processes multiple `.mp4`, `.avi`, `.mkv` files
-- ✅ **Fusion-ready Architecture:** Extendable for sensor/data fusion scenarios
+
 
 ---
 
