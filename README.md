@@ -4,7 +4,14 @@
 **Multi-UAV-IR-Tracker-Fusion** is a customized extension of [BOXMot](https://github.com/mikel-brostrom/boxmot) designed for **multi-object tracking in UAV-based infrared (IR) videos**. It includes:
 
 - First-frame label-based identity assignment
-- StrongSORT-based tracking
+- deepocsort
+  strongsort
+  ocsort
+  bytetrack
+  botsort
+  imprassoc
+  boosttrack
+             -based tracking
 - YOLOv8 object detection
 - Multi-stream/fusion-ready support
 
