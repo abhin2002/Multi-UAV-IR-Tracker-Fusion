@@ -129,7 +129,6 @@ Output results are saved to the `/outputs/` directory.
 - Modify `track.py` to:
   - Add new label parsing logic
   - Switch between `bytetrack` or `ocsort` trackers
-- Add new fusion modules under `fusion/` if using multiple sensors
 - Use `--show-vid` or `--save-txt` for visual or coordinate outputs
 
 ---
