@@ -60,7 +60,7 @@ Multi-UAV-IR-Tracker-Fusion/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Multi-UAV-IR-Tracker-Fusion.git
+   git clone https://github.com/abhin2002/Multi-UAV-IR-Tracker-Fusion.git
    cd Multi-UAV-IR-Tracker-Fusion
    ```
 
